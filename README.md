@@ -1,2 +1,5 @@
 # DesignLab
-test
+Zespół:
+Miłosz Blak
+Maciej Kajda
+Krzysztof Sordyl
