@@ -1,6 +1,6 @@
 # DesignLab
 
-Sterowny zdalnie system podlewania do kwiatków.
+Sterowany zdalnie system podlewania do kwiatków.
 
 Zespół:
 Miłosz Blak
