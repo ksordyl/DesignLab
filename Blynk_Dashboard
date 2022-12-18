@@ -1,0 +1,5 @@
+Przy użyciu platformy Blynk stworzono dashboard do obsługi pompy wody oraz pomiaru stanu wilgoci pobieranego przez sensory.
+
+#define BLYNK_TEMPLATE_ID "TMPLsGIVarrJ"
+#define BLYNK_DEVICE_NAME "Watering System"
+#define BLYNK_AUTH_TOKEN "AFB5VSZpYi6H-ueyQX0HdWjBOuLPe3zR"
