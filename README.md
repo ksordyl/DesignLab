@@ -14,6 +14,7 @@ Krzysztof Sordyl - aplikacja sterująca
 
 
 Harmonogram
+
 7.11 - 20.11
       Kompletowanie not katalogowych, doprecyzowanie schematu,
       Wstępna budowa układu w oparciu o schemat, utworzenie wczesnej wersji kodu źródłowego 
