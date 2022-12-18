@@ -18,8 +18,13 @@ Harmonogram
       Kompletowanie not katalogowych, doprecyzowanie schematu,
       Wstępna budowa układu w oparciu o schemat, utworzenie wczesnej wersji kodu źródłowego 
       zawierającej obsłuhgę trzech czujników wilgoci, implementacja prostego systemu obsługi silnika DC
+      
 21.11 - 27.11
       kompletowanie zestawu części
+      
+11.12 - 18.12
+      Utworzenie aplikacji w usłudze Blynk
+      Zbudowanie prototypu układu przy użyciu elementów fizycznych
       
 ZDJĘCIA UKŁADU:      
 ![318611809_916317999319952_5412543117950785216_n](https://user-images.githubusercontent.com/72890605/208315520-f97706d1-b3e5-4c72-ad51-8dae6c009a07.jpg)
