@@ -81,6 +81,7 @@ int main(void)
 		{
 			PORTB|=(1<<7);			//for DC motor
 			//to be done on interrupts
+		siema
 		}*/
 	}
 }
