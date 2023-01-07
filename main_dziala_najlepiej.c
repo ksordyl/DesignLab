@@ -61,6 +61,8 @@ int main(void)
 		ADC0val=ADC0_Read();			//if the sensor does not detect moisture
 		ADC1val=ADC1_Read();			//it outputs the value 1023
 		ADC2val=ADC2_Read();
+	
+	//logika dla 3 czujnikow wilgoci
        if(ADC0val < 700 || ADC1val < 700 || ADC2val < 700)
        {
 	       PORTC &= ~( 1<<5 );
