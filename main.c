@@ -81,6 +81,15 @@ int main(void)
 		{
 			PORTB|=(1<<7);			//for DC motor
 			//to be done on interrupts
+			     if(ADC0val < 700 || ADC1val < 700 || ADC2val < 700)
+        {
+            PORTC &= ~( 1<<5 );  
+        }   
+		else 
+        {
+            PORTC |= (1<<5);
+        } 
+
 		
 		}*/
 	}
