@@ -34,3 +34,7 @@ ZDJĘCIA UKŁADU:
 
 https://user-images.githubusercontent.com/72890605/209703342-3af79c05-6d09-4e86-91ee-c88d70287a4d.mp4
 
+
+
+https://user-images.githubusercontent.com/72890605/212557022-5700f9e3-e00c-48e5-9fd8-89f4a3661f81.mp4
+
