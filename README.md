@@ -42,3 +42,9 @@ https://user-images.githubusercontent.com/72890605/212557022-5700f9e3-e00c-48e5-
 
 https://user-images.githubusercontent.com/72890605/213985010-7a936463-3ce4-4228-a44a-2902a0506a43.mp4
 
+
+Projekt PCB
+<img width="1110" alt="Zrzut ekranu 2023-<img width="1110" alt="Zrzut ekranu 2023-01-25 o 16 47 55" src="https://user-images.githubusercontent.com/72890605/214609439-bbb38ef6-3cd1-4c43-8179-d263549d5ca2.png">
+01-25 o 16 47 37" src="https://user-images.githubusercontent.com/72890605/214609415-1e7b4d46-c85a-4f23-a84c-32ae062a4cbe.png">
+![327055799_3268389830065752_9183322984085450271_n](https://user-images.githubusercontent.com/72890605/214609500-709e358b-cbe3-4b5f-9c11-ee154ab03456.png)
+![326587196_705425457897856_835047889325506361_n](https://user-images.githubusercontent.com/72890605/214609543-f3d97e23-e965-4cc3-9e2f-a55c9e7ccd05.png)
